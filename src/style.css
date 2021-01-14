@@ -2,14 +2,7 @@
   margin-bottom: 20px;
 }
 
-label {
+.values {
   display: block;
-}
-
-label:not(:last-of-type) {
   margin-bottom: 10px;
-}
-
-input[class="values-age"] {
-  width: 65px;
 }
